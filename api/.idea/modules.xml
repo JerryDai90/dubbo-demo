@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/j-api-dubbo.iml" filepath="$PROJECT_DIR$/j-api-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../service-auth/j-service-auth-dubbo.iml" filepath="$PROJECT_DIR$/../service-auth/j-service-auth-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../service-user/j-service-user-dubbo.iml" filepath="$PROJECT_DIR$/../service-user/j-service-user-dubbo.iml" />
+    </modules>
+  </component>
+</project>
