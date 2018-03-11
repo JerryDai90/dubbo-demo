@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/j-api-dubbo.iml" filepath="$PROJECT_DIR$/j-api-dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../client/j-client-dubbo.iml" filepath="$PROJECT_DIR$/../client/j-client-dubbo.iml" />
       <module fileurl="file://$PROJECT_DIR$/../service-auth/j-service-auth-dubbo.iml" filepath="$PROJECT_DIR$/../service-auth/j-service-auth-dubbo.iml" />
       <module fileurl="file://$PROJECT_DIR$/../service-user/j-service-user-dubbo.iml" filepath="$PROJECT_DIR$/../service-user/j-service-user-dubbo.iml" />
     </modules>

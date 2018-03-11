@@ -7,14 +7,16 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="j-api-dubbo" />
+        <module name="j-client-dubbo" />
         <module name="j-service-auth-dubbo" />
         <module name="j-service-user-dubbo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="j-api-dubbo" target="1.5" />
-      <module name="j-service-auth-dubbo" target="1.5" />
-      <module name="j-service-user-dubbo" target="1.5" />
+      <module name="j-api-dubbo" target="1.7" />
+      <module name="j-client-dubbo" target="1.7" />
+      <module name="j-service-auth-dubbo" target="1.7" />
+      <module name="j-service-user-dubbo" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
